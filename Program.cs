@@ -1,9 +1,16 @@
 ﻿
+Console.WriteLine("Добро пожаловать в недокалькулятор!) ");
+Console.ReadLine();
+
+
 while (true)
 {
+    
+    
     Console.Clear();
     double num1, num2;
     String action;
+    
     try
     {
         Console.WriteLine("Введите первое число:");
